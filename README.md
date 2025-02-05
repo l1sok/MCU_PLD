@@ -28,10 +28,8 @@
 |STM32F103VBT6|
   
 
-  
-![image](https://github.com/user-attachments/assets/87a68a68-c3ce-43ca-b916-e34310d4d332)
+![Снимок экрана 2025-02-05 004817](https://github.com/user-attachments/assets/12ac02c2-e26f-482d-b85b-af64f856cf69)
 
-
-![image](https://github.com/user-attachments/assets/3a157335-bab8-4680-b47b-9d9fa4fad7a5)
+![image](https://github.com/user-attachments/assets/205254a8-f388-46a9-8227-dbaa42e48319)
 
 На данный момент осталось доработать схему формирования питания, блоки программирования.
