@@ -37,3 +37,6 @@
 ![image](https://github.com/user-attachments/assets/205254a8-f388-46a9-8227-dbaa42e48319)
 
 На данный момент осталось доработать схему формирования питания, блоки программирования.
+
+---
+_Для корректного отображения схем .SchDot необходимо установить шрифт [GOST_A](https://github.com/l1sok/MCU_PLD/blob/main/GOST_A%20.TTF)_
